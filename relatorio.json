@@ -1,0 +1,22 @@
+{
+    "Total de Frames": 3326,
+    "Total de Rostos Detectados": 3417,
+    "Total de Anomalias Detectadas": 972,
+    "Resumo de Emoções": {
+        "surprise": 116,
+        "neutral": 833,
+        "disgust": 1,
+        "fear": 418,
+        "angry": 120,
+        "sad": 874,
+        "happy": 1055
+    },
+    "Resumo de Atividades": {
+        "Andando": 34,
+        "Em pé": 88,
+        "Sentado": 2341,
+        "Desconhecida": 539,
+        "Agachado": 44,
+        "Correndo": 280
+    }
+}
